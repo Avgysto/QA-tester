@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T15:29:58.196Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.5.1026 Yowser/2.5 Safari/537.36" etag="pG-9eX7YDC2I3euSXK7-" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T15:40:28.244Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.167 YaBrowser/22.7.5.1026 Yowser/2.5 Safari/537.36" etag="ccT4hqBdGMjyXDfV8ANE" version="20.3.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="755" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1163.5" y="1309" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1356" value="Levels of testing" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="558.5" y="1171.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="488.5" y="806.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1359" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1350" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -472,16 +472,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1495" value="Модульное&amp;nbsp;&lt;br&gt;тестирование" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1140" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1496" value="Интеграционное&amp;nbsp;&lt;br&gt;тестирование" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1241" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1497" value="Системное&amp;nbsp;&lt;br&gt;тестирование" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="488.5" y="1331.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="931.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1498" value="Приемочное &lt;br&gt;тестирование" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1314" width="120" height="40" as="geometry" />
+          <mxGeometry x="488.5" y="990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1508" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1356" target="1495" edge="1">
           <mxGeometry x="188.5" y="51.5" width="100" height="100" as="geometry">
@@ -514,19 +514,19 @@
           <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1516" value="Связанные&amp;nbsp;&lt;br&gt;с изменениями" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="285.5" y="711.5" width="168" height="120" as="geometry" />
+          <mxGeometry x="362" y="528" width="168" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1522" value="Дымовое &lt;br&gt;тестирование" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="120" y="620" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1526" value="Санитарное &lt;br&gt;тестирование" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="130" y="851.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="656.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1527" value="Тестирование&amp;nbsp;&lt;br&gt;сборки" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="780" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="571.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1529" value="Регрессионное&amp;nbsp;&lt;br&gt;тестирование" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="30" y="690" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1534" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1522" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
@@ -652,6 +652,29 @@
         </mxCell>
         <mxCell id="yMDogHoE84hEe4hK3NDy-1592" value="Input data&lt;br&gt;Output data&lt;br&gt;Passing scenarios&lt;br&gt;Comparison of results" style="whiteSpace=wrap;html=1;fillColor=#f5af58;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="120" width="148.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yMDogHoE84hEe4hK3NDy-1602" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fillColor=#3DA92C;" edge="1" parent="1" target="yMDogHoE84hEe4hK3NDy-1601">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1225.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMDogHoE84hEe4hK3NDy-1599" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yMDogHoE84hEe4hK3NDy-1600" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;fillColor=#3DA92C;exitX=0.227;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="1515">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689.1040000000003" y="1182.1390000000004" as="sourcePoint" />
+            <mxPoint x="880" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMDogHoE84hEe4hK3NDy-1601" value="" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#FFFFFF;strokeColor=#2F5B7C;fontColor=#2F5B7C;shadow=0;strokeWidth=6;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1090" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="yMDogHoE84hEe4hK3NDy-1603" value="Methods&lt;br&gt;of&lt;br&gt;testing" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#B5FFFF;fontStyle=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1130" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
